@@ -1,0 +1,43 @@
+{
+  "name": "movies-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^5.0.0-beta.5",
+    "formik": "^2.2.9",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-modal": "^3.12.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.1.5",
+    "react-swipeable-views": "^0.14.0",
+    "react-youtube": "^7.13.1",
+    "typeface-roboto": "0.0.54",
+    "react-material-ui-form-validator": "^2.1.2",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8085",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}

@@ -1,0 +1,18 @@
+.header {
+    padding: 8px 32px 8px 16px;
+    background-color: #222;
+    height: 36px;
+}
+
+.logo {
+    background-color: #ff7f7f;
+    height: 35px;
+    animation: rotate 8s linear infinite;
+    float: left;
+}
+
+
+.headerButton {
+    float: right;
+}
+
