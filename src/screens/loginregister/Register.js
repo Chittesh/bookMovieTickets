@@ -46,7 +46,6 @@ export default function Register({ addSubscriberHandler }) {
       contactno: ''
     });
     //history.push("/")
-    console.log("hhhhhhhhhhhhhh");
     
   }
 

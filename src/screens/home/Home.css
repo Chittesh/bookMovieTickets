@@ -1,0 +1,34 @@
+.home {
+    padding: 8px;
+    background-color: #ff9999;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.movies {
+    overflow-x: auto;
+	flex-wrap: nowrap;
+}
+
+.box {
+    display: flex;
+    
+  }
+
+  .releasemovies {
+    width: 76%;
+    margin: 16px;
+  }
+
+  .releasemoviefilter {
+    width: 24%;
+    margin: 16px;
+  }
+  .releasemoviefilterheader {
+    color: 'theme.palette.primary.light';
+  }
+
+  
+
+  
+  
